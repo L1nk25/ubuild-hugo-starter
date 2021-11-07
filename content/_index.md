@@ -19,6 +19,11 @@ page_sections:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     link_text: Download
     open_in_new_tab: true
+- template: 1-context
+  block: ''
+  logo: ''
+  navigation: ''
+  cta: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
@@ -39,3 +44,12 @@ page_sections:
   content: Hello world!
 
 ---
+prova
+
+oprpva
+
+fdsgaasdgdasg
+
+sdg
+
+SDG
