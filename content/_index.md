@@ -19,7 +19,7 @@ page_sections:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     link_text: Download
     open_in_new_tab: true
-- template: hero-banner-w-image
+- template: ''
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
