@@ -3,6 +3,11 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: 1-column-text
+  block: 1-text
+  logo: ''
+  navigation: ''
+  cta: ''
 - template: navigation-header-w-button
   block: header-2
   logo: ''
