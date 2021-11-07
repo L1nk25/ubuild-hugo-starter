@@ -20,7 +20,7 @@ page_sections:
     link_text: Download
     open_in_new_tab: true
 - template: 1-context
-  block: ''
+  block: text-1
   logo: ''
   navigation: ''
   cta: ''
